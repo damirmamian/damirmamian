@@ -11,6 +11,8 @@
 - **Other:** Notion Templates, Digital Product Design
 
 ---
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Damir)
+---
 
 ## 📈 My GitHub Stats
 
@@ -24,24 +26,3 @@
 - **Etsy Store:** [Damir Mamian Templates](https://www.etsy.com/shop/DamirMamian)
 - **Fiverr:** [Frontend & HTML/CSS Services](https://www.fiverr.com/damirr07?public_mode=true)
 - **LinkedIn:** [linkedin.com/in/damirmamian](https://www.linkedin.com/in/damir-mamian-999335250/)
-- **Portfolio Website:** _Coming soon_ 🚧
-
----
-
-⭐️ _If you like my work, consider giving a star to the repositories you enjoy!_
-
-
-<!--
-**damirmamian/damirmamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
