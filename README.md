@@ -4,7 +4,7 @@
 
 💡 &nbsp;Passionate about building responsive, user-friendly websites and unique digital products.\
 🎓 &nbsp;I'm currently studying  Cybersecurity at the Lviv Polytechnic National University.\
-✍️ &nbsp;I pursue Fullstack development career and sell ![Notion Templates](https://dailyusageforyou.etsy.com)\
+✍️ &nbsp;I pursue Fullstack development career and sell [Notion Templates](https://dailyusageforyou.etsy.com)\
 ✉️ &nbsp;You can shoot me an email at damirmamian@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
