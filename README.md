@@ -7,7 +7,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at damirmamian@gmail.com! I'll try to respond as soon as I can.\
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wkfao2fexbtyivjxib3mbgyohm)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wkfao2fexbtyivjxib3mbgyohm align="right")
 
 ### 🛠 &nbsp;Tech Stack
 
