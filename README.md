@@ -22,8 +22,8 @@
 
 ## 🌍 Connect With Me
 - **Etsy Store:** [Damir Mamian Templates](https://www.etsy.com/shop/DamirMamian)
-- **Fiverr:** [Frontend & HTML/CSS Services](https://www.fiverr.com)
-- **LinkedIn:** [linkedin.com/in/damirmamian](https://linkedin.com)
+- **Fiverr:** [Frontend & HTML/CSS Services]([https://www.fiverr.com](https://www.fiverr.com/damirr07?public_mode=true))
+- **LinkedIn:** [linkedin.com/in/damirmamian]([https://linkedin.com](https://www.linkedin.com/in/damir-mamian-999335250/))
 - **Portfolio Website:** _Coming soon_ 🚧
 
 ---
