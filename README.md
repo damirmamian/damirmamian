@@ -16,14 +16,9 @@
 ---
 
 ## 📈 My GitHub Stats
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
     ![damirmamian's Stats](https://github-readme-stats.vercel.app/api?username=damirmamian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  </div>
-  <div style="flex: 1;">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damirmamian&theme=vue-dark&layout=compact&hide_border=true)
-  </div>
-</div>
+
 
 ---
 
