@@ -11,7 +11,7 @@
 - **Other:** Notion Templates, Digital Product Design
 
 ---
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Damir)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wkfao2fexbtyivjxib3mbgyohm)
 ---
 
 ## 📈 My GitHub Stats
