@@ -7,8 +7,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript  
-- **Styling:** Tailwind CSS, SASS  
+- **Languages:** HTML5, CSS3
 - **Other:** Notion Templates, Digital Product Design
 
 ---
