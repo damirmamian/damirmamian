@@ -7,7 +7,8 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at damirmamian@gmail.com! I'll try to respond as soon as I can.\
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wkfao2fexbtyivjxib3mbgyohm align="right")
+<div style="display:flex;">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -18,6 +19,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
