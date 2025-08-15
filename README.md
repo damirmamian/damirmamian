@@ -5,7 +5,7 @@
 💡 &nbsp;Passionate about building responsive, user-friendly websites and unique digital products.\
 🎓 &nbsp;I'm currently studying  Cybersecurity at the Lviv Polytechnic National University.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at damirmamian@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at damirmamian@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
