@@ -1,33 +1,5 @@
 # 👋 Hey, I'm Damir Mamian
 
-💻 **Frontend Developer | HTML/CSS Enthusiast | Digital Creator**  
-🚀   
-📍 Based in Ukraine — crafting solutions for global users.  
-
----
-
-## 🛠 Tech Stack
-- **Languages:** HTML5, CSS3
-- **Other:** Notion Templates, Digital Product Design
-
----
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wkfao2fexbtyivjxib3mbgyohm)
----
-
-## 📈 My GitHub Stats
-![damirmamian's Stats](https://github-readme-stats.vercel.app/api?username=damirmamian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damirmamian&theme=vue-dark&layout=compact&hide_border=true)
-
-
----
-
-## 🌍 Connect With Me
-- **Etsy Store:** [Damir Mamian Templates](https://www.etsy.com/shop/DamirMamian)
-- **Fiverr:** [Frontend & HTML/CSS Services](https://www.fiverr.com/damirr07?public_mode=true)
-- **LinkedIn:** [linkedin.com/in/damirmamian](https://www.linkedin.com/in/damir-mamian-999335250/)
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Passionate about building responsive, user-friendly websites and unique digital products.\
@@ -35,7 +7,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at damirmamian@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wkfao2fexbtyivjxib3mbgyohm)
 
 ### 🛠 &nbsp;Tech Stack
 
